@@ -16,3 +16,5 @@ O Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, po
 
 #### Dashboard gerado:
 ![Laboratorio-1](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/520b90fc-bba4-4c81-a844-04b346283234)
+
+## Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI
