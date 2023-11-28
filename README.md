@@ -15,7 +15,8 @@ O Dashboard deve responder às seguintes perguntas de negócio:
 O Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, por segmento e por país.
 
 #### Dashboard gerado:
-![Laboratorio-1](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/520b90fc-bba4-4c81-a844-04b346283234)
+![Lab_1](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/cbcad32a-37dc-42c8-95a3-d433406d0ac1)
 
 ## Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI
 Neste laboratório foi trabalhada a modelagem de dados, cardinalidade, recursos de limpeza de dados do Power BI e introdução ao DAX.
+
