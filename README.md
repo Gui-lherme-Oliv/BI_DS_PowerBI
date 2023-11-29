@@ -21,7 +21,7 @@ O Dashboard deve responder às seguintes perguntas de negócio:
 
 O Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, por segmento e por país.
 
-#### 1.1. Dashboard gerado:
+### 1.1. Dashboard gerado:
 ![Lab_1](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/cbcad32a-37dc-42c8-95a3-d433406d0ac1)
 
 ## 2. Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI
@@ -34,7 +34,7 @@ O Dashboard deve responder às seguintes perguntas de negócio:
 - Pergunta 4 - Considere que o lucro é equivalente a: Valor Venda - Custo Envio. Qual categoria de produto apresentou maior lucro médio?
 - Pergunta 5 - Qual foi o comportamento da margem de lucro ao longo do tempo? Considere a margem de lucro como o Lucro dividido pelo Valor Venda.
 
-#### 2.1. Dashboard gerado:
+### 2.1. Dashboard gerado:
 ![Lab_2](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/18db1226-36dd-4de9-b5c1-98f6f367fcd4)
 
 ## 3. Mini-Projeto 1 - Análise de Campanhas de Marketing com Power BI
