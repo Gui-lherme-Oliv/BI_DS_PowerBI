@@ -1,7 +1,7 @@
 # Compilado de diferentes análises exploratórias de dados (EDA) realizadas utilizando Power BI
 #### Autor: Guilherme Oliveira da Rocha Cunha
 
-Estas análises foram apresentadas no curso **Microsoft Power BI Para Business Intelligence e Data Science** oferecido pelo portal de capacitação profissional Data Science Academy ([link](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science)). Neste curso as análises são apresentadas em laboratórios práticos ou em mini-projetos. Todos os laboratórios e mini-projetos foram refeitos do zero por mim, construídos de acordo com as instruções do professor Daniel Mendes, instrutor responsável por este curso. Todos os conjuntos de dados (.csv ou .xlsx) e dashboards (.pbix) estão presentes neste repositório.
+Estas análises foram apresentadas no curso **Microsoft Power BI Para Business Intelligence e Data Science** oferecido pelo portal de capacitação profissional Data Science Academy ([link](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science)). Neste curso as análises são demonstradas em laboratórios práticos ou em mini-projetos. Todos os laboratórios e mini-projetos foram refeitos do zero por mim, construídos de acordo com as instruções do professor Daniel Mendes, instrutor responsável por este curso. Todos os conjuntos de dados (.csv ou .xlsx) e dashboards (.pbix) estão presentes neste repositório.
 
 ## Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
 Neste laboratório foram utilizados dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo.
