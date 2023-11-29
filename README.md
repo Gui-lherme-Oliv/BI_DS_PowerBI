@@ -19,7 +19,7 @@ O Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, po
 ![Lab_1](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/cbcad32a-37dc-42c8-95a3-d433406d0ac1)
 
 ## Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI
-Neste laboratório foi trabalhada a **modelagem de dados, cardinalidade, recursos de limpeza de dados do Power BI e introdução ao DAX**. Foram utilizados dados de vendas fictícios obtidos em 4 diferentes tabelas: Clientes, Pedidos, Produtos e Vendas.
+Neste laboratório foram explorados os conceitos de **modelagem de dados, cardinalidade, recursos de limpeza de dados do Power BI e introdução ao DAX**. Foram utilizados dados de vendas fictícios obtidos em 4 diferentes tabelas: Clientes, Pedidos, Produtos e Vendas.
 
 O Dashboard deve responder às seguintes perguntas de negócio:
 - Pergunta 1 - Qual foi o total de valor venda considerando cada modo de envio dos pedidos? Use um gráfico de cascata.
