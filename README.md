@@ -3,7 +3,7 @@
 
 Estas análises foram apresentadas no curso **Microsoft Power BI Para Business Intelligence e Data Science** oferecido pelo portal de capacitação profissional Data Science Academy ([link](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science)). Neste curso as análises são demonstradas em laboratórios práticos ou em mini-projetos. Todos os laboratórios e mini-projetos foram refeitos do zero por mim, construídos de acordo com as instruções do professor Daniel Mendes, instrutor responsável por este curso. Todos os conjuntos de dados (.csv ou .xlsx) e dashboards (.pbix) estão presentes neste repositório.
 
-### [Pergunta](#1-lab1)
+### [Laboratório Prático 1 - Dashboard Analítico de Vendas Globais](#1)
 ### [Preparação](#2)
 
 ## 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
