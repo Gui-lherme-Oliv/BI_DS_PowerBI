@@ -3,8 +3,9 @@
 
 Estas análises foram apresentadas no curso **Microsoft Power BI Para Business Intelligence e Data Science** oferecido pelo portal de capacitação profissional Data Science Academy ([link](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science)). Neste curso as análises são demonstradas em laboratórios práticos ou em mini-projetos. Todos os laboratórios e mini-projetos foram refeitos do zero por mim, construídos de acordo com as instruções do professor Daniel Mendes, instrutor responsável por este curso. Todos os conjuntos de dados (.csv ou .xlsx) e dashboards (.pbix) estão presentes neste repositório.
 
-### [1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais](#1-laboratório-prático-1---dashboard-analítico-de-vendas-globais-1)
-### [2. Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI](#2-laboratório)
+### [1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais](#1-laboratório-prático-1---dashboard-analítico-de-vendas-globais)
+### [2. Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI](#2-laboratório-prático-2---dashboard-de-vendas-custo-margem-de-lucro-e-kpi)
+### [3. Mini-Projeto 1 - Análise de Campanhas de Marketing com Power BI](#3-mini-projeto-1---análise-de-campanhas-de-marketing-com-power-bi)
 
 ## 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
 Neste laboratório foram utilizados dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo.
