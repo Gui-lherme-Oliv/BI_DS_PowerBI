@@ -24,6 +24,7 @@ O Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, po
 ### 1.1. Dashboard gerado:
 ![Lab_1](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/cbcad32a-37dc-42c8-95a3-d433406d0ac1)
 
+#### [Voltar ao Sumário](#sumário)
 ## 2. Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI
 Neste laboratório foram explorados os conceitos de **modelagem de dados, cardinalidade, recursos de limpeza de dados do Power BI e introdução ao DAX**. Foram utilizados dados de vendas fictícios obtidos em 4 diferentes tabelas: Clientes, Pedidos, Produtos e Vendas.
 
@@ -37,4 +38,14 @@ O Dashboard deve responder às seguintes perguntas de negócio:
 ### 2.1. Dashboard gerado:
 ![Lab_2](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/18db1226-36dd-4de9-b5c1-98f6f367fcd4)
 
+#### [Voltar ao Sumário](#sumário)
 ## 3. Mini-Projeto 1 - Análise de Campanhas de Marketing com Power BI
+Este  Mini-Projeto  trouxe uma  breve  introdução à análise  de  campanhas  de Marketing com o Power BI. Foram gerados 4  Dashboards,  mais  de  10  elementos  visuais, customizações,  formatações, correções nos dados e utilização de diferentes recursos do Power BI. Os dados foram previamente customizados para este Mini-Projeto e representam informações sobre clientes e campanhas de Marketing realizadas por uma empresa fictícia.
+
+Neste Mini-Projeto os relatórios foram divididos em 4 visões:
+- Visão do Cliente
+- Visão do Comportamento de Compra do Cliente
+- Visão da Performance das Campanhas de Marketing
+- Visão dos Padrões de Compra no Ponto de Venda (País)
+
+Para cada visão foram compreendidas as variáveis, criados gráficos, medidas, extraídas métricas e cruzados os dados, visando entregar aos tomadores de decisão uma visão bastante completa sobre o perfil dos clientes, os padrões de compra e a efetividade das campanhas de Marketing. 
