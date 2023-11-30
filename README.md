@@ -51,5 +51,5 @@ Neste Mini-Projeto os relatórios foram divididos em 4 visões:
 Para cada visão foram compreendidas as variáveis, criados gráficos, medidas, extraídas métricas e cruzados os dados, visando entregar aos tomadores de decisão uma visão bastante completa sobre o perfil dos clientes, os padrões de compra e a efetividade das campanhas de Marketing. 
 
 ### 3.1. Dashboard gerado - Visão do cliente:
-![MP_1-1](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/587ff8c4-d025-4d3d-b232-eea9425c0d91)
+![MP_1-1](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/11e95a31-4018-4487-9e38-6f919614c33a)
 
