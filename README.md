@@ -1,3 +1,5 @@
+<div align="justify">
+  
 # Compilado de diferentes análises exploratórias de dados (EDA) realizadas utilizando Power BI
 #### Autor: Guilherme Oliveira da Rocha Cunha
 
@@ -69,3 +71,4 @@ Para cada visão foram compreendidas as variáveis, criados gráficos, medidas, 
 Neste Mini-Projeto foi trabalhado um problema da área comercial, especificamente para analisar a performance de vendas de uma empresa fictícia. Ele trouxe uma breve introdução à análise de dados comerciais com o Power BI. Foram construídas diversas visualizações para compreender a performance de vendas de uma empresa fictícia por diferentes ângulos. Neste Mini-Projeto aprendi a trabalhar com interessantes recursos do Power BI como a Narrativa Inteligente, Principais Influenciadores, Gráfico de Faixas e criação de menu para índice do Dashboard.
 
 #### [Voltar ao Sumário](#sumário)
+</div>
