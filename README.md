@@ -64,6 +64,6 @@ Para cada visão foram compreendidas as variáveis, criados gráficos, medidas, 
 
 #### [Voltar ao Sumário](#sumário)
 
-## 4. Mini-Projeto 2 - Dashboard Comercial -Performance de Vendas
+## 4. Mini-Projeto 2 - Dashboard Comercial - Performance de Vendas
 
 
