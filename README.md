@@ -27,7 +27,7 @@ O Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, po
 
 #### [Voltar ao Sumário](#sumário)
 ## 2. Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI
-<p align="justify">Neste laboratório foram explorados os conceitos de modelagem de dados, cardinalidade, recursos de limpeza de dados do Power BI e introdução ao DAX. Foram utilizados dados de vendas fictícios obtidos em 4 diferentes tabelas: Clientes, Pedidos, Produtos e Vendas.</p>
+Neste laboratório foram explorados os conceitos de modelagem de dados, cardinalidade, recursos de limpeza de dados do Power BI e introdução ao DAX. Foram utilizados dados de vendas fictícios obtidos em 4 diferentes tabelas: Clientes, Pedidos, Produtos e Vendas.
 
 O Dashboard deve responder às seguintes perguntas de negócio:
 - Pergunta 1 - Qual foi o total de valor venda considerando cada modo de envio dos pedidos? Use um gráfico de cascata.
@@ -41,7 +41,7 @@ O Dashboard deve responder às seguintes perguntas de negócio:
 
 #### [Voltar ao Sumário](#sumário)
 ## 3. Mini-Projeto 1 - Análise de Campanhas de Marketing
-<p align="justify">Este Mini-Projeto trouxe uma breve introdução à análise de campanhas de Marketing com o Power BI. Foram gerados 4 Dashboards, mais de 10 elementos visuais, customizações, formatações, correções nos dados e utilização de diferentes recursos do Power BI. Os dados foram previamente customizados para este Mini-Projeto e representam informações sobre clientes e campanhas de Marketing realizadas por uma empresa fictícia.</p>
+Este Mini-Projeto trouxe uma breve introdução à análise de campanhas de Marketing com o Power BI. Foram gerados 4 Dashboards, mais de 10 elementos visuais, customizações, formatações, correções nos dados e utilização de diferentes recursos do Power BI. Os dados foram previamente customizados para este Mini-Projeto e representam informações sobre clientes e campanhas de Marketing realizadas por uma empresa fictícia.
 
 Neste Mini-Projeto os relatórios foram divididos em 4 visões:
 - Visão do Cliente
@@ -49,7 +49,7 @@ Neste Mini-Projeto os relatórios foram divididos em 4 visões:
 - Visão da Performance das Campanhas de Marketing
 - Visão dos Padrões de Compra no Ponto de Venda (País)
 
-<p align="justify">Para cada visão foram compreendidas as variáveis, criados gráficos, medidas, extraídas métricas e cruzados os dados, visando entregar aos tomadores de decisão uma visão bastante completa sobre o perfil dos clientes, os padrões de compra e a efetividade das campanhas de Marketing.</p>
+Para cada visão foram compreendidas as variáveis, criados gráficos, medidas, extraídas métricas e cruzados os dados, visando entregar aos tomadores de decisão uma visão bastante completa sobre o perfil dos clientes, os padrões de compra e a efetividade das campanhas de Marketing.
 
 ### 3.1. Dashboard gerado - Visão do Cliente
 ![MP_1-1](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/11e95a31-4018-4487-9e38-6f919614c33a)
@@ -66,6 +66,6 @@ Neste Mini-Projeto os relatórios foram divididos em 4 visões:
 #### [Voltar ao Sumário](#sumário)
 
 ## 4. Mini-Projeto 2 - Dashboard Comercial - Performance de Vendas
-<p align="justify">Neste Mini-Projeto foi trabalhado um problema da área comercial, especificamente para analisar a performance de vendas de uma empresa fictícia. Ele trouxe uma breve introdução à análise de dados comerciais com o Power BI. Foram construídas diversas visualizações para compreender a performance de vendas de uma empresa fictícia por diferentes ângulos. Neste Mini-Projeto aprendi a trabalhar com interessantes recursos do Power BI como a Narrativa Inteligente, Principais Influenciadores, Gráfico de Faixas e criação de menu para índice do Dashboard.</p>
+Neste Mini-Projeto foi trabalhado um problema da área comercial, especificamente para analisar a performance de vendas de uma empresa fictícia. Ele trouxe uma breve introdução à análise de dados comerciais com o Power BI. Foram construídas diversas visualizações para compreender a performance de vendas de uma empresa fictícia por diferentes ângulos. Neste Mini-Projeto aprendi a trabalhar com interessantes recursos do Power BI como a Narrativa Inteligente, Principais Influenciadores, Gráfico de Faixas e criação de menu para índice do Dashboard.
 
 #### [Voltar ao Sumário](#sumário)
