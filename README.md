@@ -54,3 +54,9 @@ Para cada visão foram compreendidas as variáveis, criados gráficos, medidas, 
 ![MP_1-1](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/11e95a31-4018-4487-9e38-6f919614c33a)
 
 ### 3.2. Dashboard gerado - Visão do Comportamento de Compra do Cliente
+![MP_1-2](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/3f5ddbdd-214f-473f-891b-4de697479701)
+
+### 3.3. Dashboard gerado - Visão da Performance das Campanhas de Marketing
+
+
+
