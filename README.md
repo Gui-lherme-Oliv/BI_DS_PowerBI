@@ -57,6 +57,9 @@ Para cada visão foram compreendidas as variáveis, criados gráficos, medidas, 
 ![MP_1-2](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/6964d293-9cbb-4e95-8f87-e6ff850d442e)
 
 ### 3.3. Dashboard gerado - Visão da Performance das Campanhas de Marketing
+![MP_1-3](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/0814f65a-59f0-4a38-9166-c4447ce469bf)
 
 ### 3.4. Dashboard gerado - Visão dos Padrões de Compra no Ponto de Venda (País)
+
+#### [Voltar ao Sumário](#sumário)
 
