@@ -26,7 +26,7 @@ O Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, po
 
 #### [Voltar ao Sumário](#sumário)
 ## 2. Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI
-Neste laboratório foram explorados os conceitos de **modelagem de dados, cardinalidade, recursos de limpeza de dados do Power BI e introdução ao DAX**. Foram utilizados dados de vendas fictícios obtidos em 4 diferentes tabelas: Clientes, Pedidos, Produtos e Vendas.
+Neste laboratório foram explorados os conceitos de modelagem de dados, cardinalidade, recursos de limpeza de dados do Power BI e introdução ao DAX. Foram utilizados dados de vendas fictícios obtidos em 4 diferentes tabelas: Clientes, Pedidos, Produtos e Vendas.
 
 O Dashboard deve responder às seguintes perguntas de negócio:
 - Pergunta 1 - Qual foi o total de valor venda considerando cada modo de envio dos pedidos? Use um gráfico de cascata.
@@ -48,7 +48,7 @@ Neste Mini-Projeto os relatórios foram divididos em 4 visões:
 - Visão da Performance das Campanhas de Marketing
 - Visão dos Padrões de Compra no Ponto de Venda (País)
 
-Para cada visão foram compreendidas as variáveis, criados gráficos, medidas, extraídas métricas e cruzados os dados, visando entregar aos tomadores de decisão uma visão bastante completa sobre o perfil dos clientes, os padrões de compra e a efetividade das campanhas de Marketing. 
+Para cada visão foram compreendidas as variáveis, criados gráficos, medidas, extraídas métricas e cruzados os dados, visando entregar aos tomadores de decisão uma visão bastante completa sobre o perfil dos clientes, os padrões de compra e a efetividade das campanhas de Marketing.
 
 ### 3.1. Dashboard gerado - Visão do cliente
 ![MP_1-1](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/11e95a31-4018-4487-9e38-6f919614c33a)
