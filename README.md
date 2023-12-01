@@ -39,7 +39,7 @@ O Dashboard deve responder às seguintes perguntas de negócio:
 ![Lab_2](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/18db1226-36dd-4de9-b5c1-98f6f367fcd4)
 
 #### [Voltar ao Sumário](#sumário)
-## 3. Mini-Projeto 1 - Análise de Campanhas de Marketing com Power BI
+## 3. Mini-Projeto 1 - Análise de Campanhas de Marketing
 Este  Mini-Projeto  trouxe uma  breve  introdução à análise  de  campanhas  de Marketing com o Power BI. Foram gerados 4  Dashboards,  mais  de  10  elementos  visuais, customizações,  formatações, correções nos dados e utilização de diferentes recursos do Power BI. Os dados foram previamente customizados para este Mini-Projeto e representam informações sobre clientes e campanhas de Marketing realizadas por uma empresa fictícia.
 
 Neste Mini-Projeto os relatórios foram divididos em 4 visões:
@@ -60,6 +60,10 @@ Para cada visão foram compreendidas as variáveis, criados gráficos, medidas, 
 ![MP_1-3](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/0814f65a-59f0-4a38-9166-c4447ce469bf)
 
 ### 3.4. Dashboard gerado - Visão dos Padrões de Compra no Ponto de Venda (País)
+![MP_1-4](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/50cbaff8-1cdb-464c-8b47-1d5dbe5a4686)
 
 #### [Voltar ao Sumário](#sumário)
+
+## 4. Mini-Projeto 2 - Dashboard Comercial -Performance de Vendas
+
 
