@@ -21,7 +21,7 @@ O Dashboard deve responder às seguintes perguntas de negócio:
 
 O Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, por segmento e por país.
 
-### 1.1. Dashboard gerado:
+### 1.1. Dashboard gerado
 ![Lab_1](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/cbcad32a-37dc-42c8-95a3-d433406d0ac1)
 
 #### [Voltar ao Sumário](#sumário)
@@ -35,7 +35,7 @@ O Dashboard deve responder às seguintes perguntas de negócio:
 - Pergunta 4 - Considere que o lucro é equivalente a: Valor Venda - Custo Envio. Qual categoria de produto apresentou maior lucro médio?
 - Pergunta 5 - Qual foi o comportamento da margem de lucro ao longo do tempo? Considere a margem de lucro como o Lucro dividido pelo Valor Venda.
 
-### 2.1. Dashboard gerado:
+### 2.1. Dashboard gerado
 ![Lab_2](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/18db1226-36dd-4de9-b5c1-98f6f367fcd4)
 
 #### [Voltar ao Sumário](#sumário)
@@ -50,6 +50,6 @@ Neste Mini-Projeto os relatórios foram divididos em 4 visões:
 
 Para cada visão foram compreendidas as variáveis, criados gráficos, medidas, extraídas métricas e cruzados os dados, visando entregar aos tomadores de decisão uma visão bastante completa sobre o perfil dos clientes, os padrões de compra e a efetividade das campanhas de Marketing. 
 
-### 3.1. Dashboard gerado - Visão do cliente:
+### 3.1. Dashboard gerado - Visão do cliente
 ![MP_1-1](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/11e95a31-4018-4487-9e38-6f919614c33a)
 
