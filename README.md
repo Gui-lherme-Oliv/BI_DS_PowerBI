@@ -73,9 +73,3 @@ Neste Mini-Projeto foi trabalhado um problema da área comercial, especificament
 #### [Voltar ao Sumário](#sumário)
 </div>
 
-![Design sem nome](https://github.com/Gui-lherme-Oliv/Business-Intelligence_PowerBI/assets/123426025/6b0eb7b6-51a3-4192-94e9-46b40e1b5b1a)
-
-
-
-
-
