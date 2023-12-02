@@ -24,7 +24,7 @@ O Dashboard deve responder às seguintes perguntas de negócio:
 
 O Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, por segmento e por país.
 
-### 1.1. Dashboard gerado
+### 1.1. Dashboard Analítico de Vendas Globais
 ![Lab_1](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/cbcad32a-37dc-42c8-95a3-d433406d0ac1)
 
 #### [Voltar ao Sumário](#sumário)
@@ -38,7 +38,7 @@ O Dashboard deve responder às seguintes perguntas de negócio:
 - Pergunta 4 - Considere que o lucro é equivalente a: Valor Venda - Custo Envio. Qual categoria de produto apresentou maior lucro médio?
 - Pergunta 5 - Qual foi o comportamento da margem de lucro ao longo do tempo? Considere a margem de lucro como o Lucro dividido pelo Valor Venda.
 
-### 2.1. Dashboard gerado
+### 2.1. Dashboard de Vendas, Custo, Margem de Lucro e KPI
 ![Lab_2](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/18db1226-36dd-4de9-b5c1-98f6f367fcd4)
 
 #### [Voltar ao Sumário](#sumário)
@@ -53,22 +53,28 @@ Neste Mini-Projeto os relatórios foram divididos em 4 visões:
 
 Para cada visão foram compreendidas as variáveis, criados gráficos, medidas, extraídas métricas e cruzados os dados, visando entregar aos tomadores de decisão uma visão bastante completa sobre o perfil dos clientes, os padrões de compra e a efetividade das campanhas de Marketing.
 
-### 3.1. Dashboard gerado - Visão do Cliente
+### 3.1. Dashboard - Visão do Cliente
 ![MP_1-1](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/11e95a31-4018-4487-9e38-6f919614c33a)
 
-### 3.2. Dashboard gerado - Visão do Comportamento de Compra do Cliente
+### 3.2. Dashboard - Visão do Comportamento de Compra do Cliente
 ![MP_1-2](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/6964d293-9cbb-4e95-8f87-e6ff850d442e)
 
-### 3.3. Dashboard gerado - Visão da Performance das Campanhas de Marketing
+### 3.3. Dashboard - Visão da Performance das Campanhas de Marketing
 ![MP_1-3](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/0814f65a-59f0-4a38-9166-c4447ce469bf)
 
-### 3.4. Dashboard gerado - Visão dos Padrões de Compra no Ponto de Venda (País)
+### 3.4. Dashboard - Visão dos Padrões de Compra no Ponto de Venda (País)
 ![MP_1-4](https://github.com/Gui-lherme-Oliv/Data-Analysis_PowerBI/assets/123426025/50cbaff8-1cdb-464c-8b47-1d5dbe5a4686)
 
 #### [Voltar ao Sumário](#sumário)
 
 ## 4. Mini-Projeto 2 - Dashboard Comercial - Performance de Vendas
 Neste Mini-Projeto foi trabalhado um problema da área comercial, especificamente para analisar a performance de vendas de uma empresa fictícia. Ele trouxe uma breve introdução à análise de dados comerciais com o Power BI. Foram construídas diversas visualizações para compreender a performance de vendas de uma empresa fictícia por diferentes ângulos. Neste Mini-Projeto aprendi a trabalhar com interessantes recursos do Power BI como a Narrativa Inteligente, Principais Influenciadores, Gráfico de Faixas e criação de menu para índice do Dashboard.
+
+### 4.1. Dashboard - Narrativa Inteligente
+### 4.2. Dashboard - Principais Influenciadores de Vendas
+### 4.3. Dashboard - Faixas de Vendas por Categoria e Pontos de Venda
+### 4.4. Dashboard - Performance dos Vendedores por Região
+### 4.5. Menu para Índice
 
 #### [Voltar ao Sumário](#sumário)
 </div>
