@@ -73,7 +73,8 @@ Neste Mini-Projeto foi trabalhado um problema da área comercial, especificament
 #### [Voltar ao Sumário](#sumário)
 </div>
 
-![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/Gui-lherme-Oliv/Business-Intelligence_PowerBI/assets/123426025/d383c72d-6b68-41d6-971d-7c810198f8a4)
+![Design sem nome](https://github.com/Gui-lherme-Oliv/Business-Intelligence_PowerBI/assets/123426025/6b0eb7b6-51a3-4192-94e9-46b40e1b5b1a)
+
 
 
 
