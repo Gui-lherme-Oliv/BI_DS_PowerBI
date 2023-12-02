@@ -11,7 +11,7 @@ Estas análises foram apresentadas no curso **Microsoft Power BI Para Business I
 ### [2. Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI](#2-laboratório-prático-2---dashboard-de-vendas-custo-margem-de-lucro-e-kpi-1)
 ### [3. Mini-Projeto 1 - Análise de Campanhas de Marketing](#3-mini-projeto-1---análise-de-campanhas-de-marketing-1)
 ### [4. Mini-Projeto 2 - Análise de Dados Comerciais: Performance de Vendas](#4-mini-projeto-2---análise-de-dados-comerciais-performance-de-vendas-1)
-### [5. Mini-Projeto 3 - Análise de Dados de RH](#5-mini-projeto-3---análise-de-dados-de-rh-1)
+### [5. Mini-Projeto 3 - Análise de Dados de Recursos Humanos](#5-mini-projeto-3---análise-de-dados-de-recursos-humanos-1)
 
 ## 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
 Neste laboratório foram utilizados dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo.
@@ -87,8 +87,18 @@ Neste Mini-Projeto foi trabalhado um problema da área comercial, especificament
 ![MP_2-5](https://github.com/Gui-lherme-Oliv/Business-Intelligence_PowerBI/assets/123426025/db3c11b9-0678-4e8b-8c34-893d293dad0e)
 
 #### [Voltar ao Sumário](#sumário)
-## 5. Mini-Projeto 3 - Análise de Dados de RH
+## 5. Mini-Projeto 3 - Análise de Dados de Recursos Humanos
+Este Mini-Projeto trouxe uma breve introdução à análise de dados de RH (Recursos Humanos) com o Power BI, onde foram utilizados dados fictícios. Durante o projeto foram trabalhados alguns outros recursos e funcionalidades do Power BI, como tabela de medidas e coluna condicional. 
 
+O Dashboard criado deve responder às seguintes perguntas de negócio:
+- Qual o total de funcionários atualmente na empresa?
+- Qual o tempo médio de experiência dos funcionários (em anos)?
+- Qual o total e percentual de funcionários do gênero masculino e feminino?
+- Qual a média salarial mensal?
+- Qual o total de funcionários por função?
+- Qual o percentual defuncionários disponíveis para fazer hora extra?
+- Qual o nível de envolvimento dos funcionários no trabalho considerando 4 categorias: Ruim, Baixo, Médio e Alto?
+- Este item não deve estar no Dashboard, mas precisa ser calculado: Qual o total e o percentual de funcionários que devem receber promoção? Considerando a coluna “Anos Desde a última Promoção” com a seguinte regra: Se o funcionário tiver 5 anos ou mais desde a última promoção, deve ter a promoção considerada. Caso contrário, a promoção não deve ser considerada agora.
 
 #### [Voltar ao Sumário](#sumário)
 
