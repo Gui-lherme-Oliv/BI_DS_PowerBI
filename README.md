@@ -11,6 +11,7 @@ Estas análises foram apresentadas no curso **Microsoft Power BI Para Business I
 ### [2. Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI](#2-laboratório-prático-2---dashboard-de-vendas-custo-margem-de-lucro-e-kpi-1)
 ### [3. Mini-Projeto 1 - Análise de Campanhas de Marketing](#3-mini-projeto-1---análise-de-campanhas-de-marketing-1)
 ### [4. Mini-Projeto 2 - Dashboard Comercial - Performance de Vendas](#4-mini-projeto-2---dashboard-comercial---performance-de-vendas-1)
+### [5. Mini-Projeto 3 - Análise de Dados de RH](#5-mini-projeto-3---análise-de-dados-de-rh-1)
 
 ## 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
 Neste laboratório foram utilizados dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo.
@@ -71,11 +72,26 @@ Para cada visão foram compreendidas as variáveis, criados gráficos, medidas, 
 Neste Mini-Projeto foi trabalhado um problema da área comercial, especificamente para analisar a performance de vendas de uma empresa fictícia. Ele trouxe uma breve introdução à análise de dados comerciais com o Power BI. Foram construídas diversas visualizações para compreender a performance de vendas de uma empresa fictícia por diferentes ângulos. Neste Mini-Projeto aprendi a trabalhar com interessantes recursos do Power BI como a Narrativa Inteligente, Principais Influenciadores, Gráfico de Faixas e criação de menu para índice do Dashboard.
 
 ### 4.1. Dashboard - Narrativa Inteligente
+![MP_2-1](https://github.com/Gui-lherme-Oliv/Business-Intelligence_PowerBI/assets/123426025/70264d99-ce13-46f0-a111-98f9d6a82b6c)
+
 ### 4.2. Dashboard - Principais Influenciadores de Vendas
+![MP_2-2](https://github.com/Gui-lherme-Oliv/Business-Intelligence_PowerBI/assets/123426025/0a4372f2-152b-4a74-a3c7-90b91230d048)
+
 ### 4.3. Dashboard - Faixas de Vendas por Categoria e Pontos de Venda
+![MP_2-3](https://github.com/Gui-lherme-Oliv/Business-Intelligence_PowerBI/assets/123426025/7af9ded3-016a-4811-95ca-d0f11a7b4eee)
+
 ### 4.4. Dashboard - Performance dos Vendedores por Região
-### 4.5. Menu para Índice
+![MP_2-4](https://github.com/Gui-lherme-Oliv/Business-Intelligence_PowerBI/assets/123426025/cf72d09e-87e5-426b-8c68-94a2862d5860)
+
+### 4.5. Menu para Navegador de Página
+![MP_2-5](https://github.com/Gui-lherme-Oliv/Business-Intelligence_PowerBI/assets/123426025/db3c11b9-0678-4e8b-8c34-893d293dad0e)
 
 #### [Voltar ao Sumário](#sumário)
+## 5. Mini-Projeto 3 - Análise de Dados de RH
+
+
+#### [Voltar ao Sumário](#sumário)
+
+
 </div>
 
