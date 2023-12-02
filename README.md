@@ -73,7 +73,8 @@ Neste Mini-Projeto foi trabalhado um problema da área comercial, especificament
 #### [Voltar ao Sumário](#sumário)
 </div>
 
-<div style="overflow-x: scroll; white-space: nowrap;">
-  <img src="![1](https://github.com/Gui-lherme-Oliv/Business-Intelligence_PowerBI/assets/123426025/9fd0af76-0790-4df3-abaf-beb2772eb186)" style="display: inline-block; width: 300px; height: 200px; margin-right: 10px;">
-  <img src="![20200606_232751](https://github.com/Gui-lherme-Oliv/Business-Intelligence_PowerBI/assets/123426025/f28917e8-38c0-43c7-8c0a-2ea8dccdaf91)" style="display: inline-block; width: 300px; height: 200px; margin-right: 10px;">
-</div>
+![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/Gui-lherme-Oliv/Business-Intelligence_PowerBI/assets/123426025/d383c72d-6b68-41d6-971d-7c810198f8a4)
+
+
+
+
