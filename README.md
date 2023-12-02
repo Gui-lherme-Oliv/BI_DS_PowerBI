@@ -10,7 +10,7 @@ Estas análises foram apresentadas no curso **Microsoft Power BI Para Business I
 ### [1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais](#1-laboratório-prático-1---dashboard-analítico-de-vendas-globais-1)
 ### [2. Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI](#2-laboratório-prático-2---dashboard-de-vendas-custo-margem-de-lucro-e-kpi-1)
 ### [3. Mini-Projeto 1 - Análise de Campanhas de Marketing](#3-mini-projeto-1---análise-de-campanhas-de-marketing-1)
-### [4. Mini-Projeto 2 - Análise de Dados Comerciais: Performance de Vendas](#4-mini-projeto-2---análise-de-dados-comerciais-:-performance-de-vendas-1)
+### [4. Mini-Projeto 2 - Análise de Dados Comerciais: Performance de Vendas](#4-mini-projeto-2---análise-de-dados-comerciais-performance-de-vendas-1)
 ### [5. Mini-Projeto 3 - Análise de Dados de RH](#5-mini-projeto-3---análise-de-dados-de-rh-1)
 
 ## 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
