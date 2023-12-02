@@ -10,7 +10,7 @@ Estas análises foram apresentadas no curso **Microsoft Power BI Para Business I
 ### [1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais](#1-laboratório-prático-1---dashboard-analítico-de-vendas-globais-1)
 ### [2. Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI](#2-laboratório-prático-2---dashboard-de-vendas-custo-margem-de-lucro-e-kpi-1)
 ### [3. Mini-Projeto 1 - Análise de Campanhas de Marketing](#3-mini-projeto-1---análise-de-campanhas-de-marketing-1)
-### [4. Mini-Projeto 2 - Dashboard Comercial - Performance de Vendas](#4-mini-projeto-2---dashboard-comercial---performance-de-vendas-1)
+### [4. Mini-Projeto 2 - Análise de Dados Comerciais: Performance de Vendas](#4-mini-projeto-2---análise-de-dados-comerciais-:-performance-de-vendas-1)
 ### [5. Mini-Projeto 3 - Análise de Dados de RH](#5-mini-projeto-3---análise-de-dados-de-rh-1)
 
 ## 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
@@ -68,7 +68,7 @@ Para cada visão foram compreendidas as variáveis, criados gráficos, medidas, 
 
 #### [Voltar ao Sumário](#sumário)
 
-## 4. Mini-Projeto 2 - Dashboard Comercial - Performance de Vendas
+## 4. Mini-Projeto 2 - Análise de Dados Comerciais: Performance de Vendas
 Neste Mini-Projeto foi trabalhado um problema da área comercial, especificamente para analisar a performance de vendas de uma empresa fictícia. Ele trouxe uma breve introdução à análise de dados comerciais com o Power BI. Foram construídas diversas visualizações para compreender a performance de vendas de uma empresa fictícia por diferentes ângulos. Neste Mini-Projeto aprendi a trabalhar com interessantes recursos do Power BI como a Narrativa Inteligente, Principais Influenciadores, Gráfico de Faixas e criação de menu para índice do Dashboard.
 
 ### 4.1. Dashboard - Narrativa Inteligente
