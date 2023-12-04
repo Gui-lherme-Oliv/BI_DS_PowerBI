@@ -13,6 +13,7 @@ Estes projetos foram apresentados no curso **Microsoft Power BI Para Business In
 ### [4. Mini-Projeto 2 - Análise de Dados Comerciais: Performance de Vendas](#4-mini-projeto-2---análise-de-dados-comerciais-performance-de-vendas-1)
 ### [5. Mini-Projeto 3 - Análise de Dados de Recursos Humanos](#5-mini-projeto-3---análise-de-dados-de-recursos-humanos-1)
 ### [6. Mini-Projeto 4 - Análise de Dados de Logística](#6-mini-projeto-4---análise-de-dados-de-logística-1)
+### [7. Mini-Projeto 5 - Análise de Dados Financeiros](#7-mini-projeto-5---análise-de-dados-financeiros-1)
 
 ## 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
 Neste laboratório foram utilizados dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo.
@@ -116,7 +117,14 @@ O Dashboard precisaria mostrar os seguintes KPIs de Logística:
 - Total de Entregas com Atraso Por Cidade
 - Percentual de Entregas Por Status de Entrega
 
+Durante o projeto foram trabalhados alguns outros recursos e funcionalidades do Power BI, como classificação de rating e filtro com medida DAX. 
+
+## 6.1. Dashboard - Análise de Dados de Logística
+![MP_4](https://github.com/Gui-lherme-Oliv/Business-Intelligence_PowerBI/assets/123426025/ca6ca8fb-244f-4e0c-a6f5-07431564b8cb)
 
 #### [Voltar ao Sumário](#sumário)
+## 7. Mini-Projeto 5 - Análise de Dados Financeiros
+
+
 </div>
 
