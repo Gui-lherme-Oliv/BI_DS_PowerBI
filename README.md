@@ -101,7 +101,7 @@ O Dashboard criado deve responder às seguintes perguntas de negócio:
 - Qual o nível de envolvimento dos funcionários no trabalho considerando 4 categorias: Ruim, Baixo, Médio e Alto?
 - Este item não deve estar no Dashboard, mas precisa ser calculado: Qual o total e o percentual de funcionários que devem receber promoção? Considerando a coluna “Anos Desde a última Promoção” com a seguinte regra: Se o funcionário tiver 5 anos ou mais desde a última promoção, deve ter a promoção considerada. Caso contrário, a promoção não deve ser considerada agora.
 
-### 5.1. Análise de Dados de Recursos Humanos
+### 5.1. Dashboard - Análise de Dados de Recursos Humanos
 ![MP_3](https://github.com/Gui-lherme-Oliv/Business-Intelligence_PowerBI/assets/123426025/10a17924-8999-441d-a970-7a26560acfd1)
 
 #### [Voltar ao Sumário](#sumário)
