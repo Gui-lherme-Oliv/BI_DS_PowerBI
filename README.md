@@ -1,9 +1,9 @@
 <div align="justify">
   
-# Compilado de diferentes análises exploratórias de dados (EDA) realizadas utilizando Power BI
+# Compilado de projetos de Business Intelligence utilizando Power BI
 #### Autor: Guilherme Oliveira da Rocha Cunha
 
-Estas análises foram apresentadas no curso **Microsoft Power BI Para Business Intelligence e Data Science** oferecido pelo portal de capacitação profissional Data Science Academy (DSA) ([link](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science)). Neste curso as análises são demonstradas em laboratórios práticos ou em mini-projetos. Todos os laboratórios e mini-projetos foram refeitos do zero por mim, construídos de acordo com as instruções do professor Daniel Mendes, instrutor responsável por este curso. Todos os conjuntos de dados disponibilizados pela DSA (.csv ou .xlsx) e relatórios/dashboards feitos por mim (.pbix) estão presentes neste repositório.
+Estes projetos foram apresentados no curso **Microsoft Power BI Para Business Intelligence e Data Science** oferecido pelo portal de capacitação profissional Data Science Academy (DSA) ([link](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science)). Neste curso os projetos são demonstrados em laboratórios práticos ou em mini-projetos. Todos os laboratórios e mini-projetos foram refeitos do zero por mim, construídos de acordo com as instruções do professor Daniel Mendes, instrutor responsável por este curso. Todos os conjuntos de dados disponibilizados pela DSA (.csv ou .xlsx) e relatórios/dashboards feitos por mim (.pbix) estão presentes neste repositório.
 
 ## Sumário
 
