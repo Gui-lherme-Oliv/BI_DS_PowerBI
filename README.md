@@ -106,6 +106,16 @@ O Dashboard criado deve responder às seguintes perguntas de negócio:
 
 #### [Voltar ao Sumário](#sumário)
 ## 6. Mini-Projeto 4 - Análise de Dados de Logística
+Este Mini-Projeto apresentou o seguinte estudo de caso com dados fictícios: Uma empresa de logística solicitou que um profissional fornecesse um dashboard para compreender como está o processo de entrega de produtos da empresa. O profissional não parecia ter muito conhecimento sobre Power BI e entregou um trabalho com nítidos problemas e erros. Os diretores da empresa pediram minha ajuda para revisar o dashboard, identificar e corrigir erros e problemas e apresentar uma nova versão. Todos os erros e problemas detectados devem ser justificados.
+
+O Dashboard precisaria mostrar os seguintes KPIs de Logística:
+- Total de Entregas no Prazo Por Canal de Entrega
+- Percentual de Entregas Antecipadas Por Equipe de Entrega
+- Total de Entregas Por Mês
+- Total de Entregas de Produtos dos Top 5 Vendedores
+- Total de Entregas com Atraso Por Cidade
+- Percentual de Entregas Por Status de Entrega
+
 
 #### [Voltar ao Sumário](#sumário)
 </div>
