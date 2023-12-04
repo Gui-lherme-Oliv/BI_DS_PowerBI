@@ -12,6 +12,7 @@ Estes projetos foram apresentados no curso **Microsoft Power BI Para Business In
 ### [3. Mini-Projeto 1 - Análise de Campanhas de Marketing](#3-mini-projeto-1---análise-de-campanhas-de-marketing-1)
 ### [4. Mini-Projeto 2 - Análise de Dados Comerciais: Performance de Vendas](#4-mini-projeto-2---análise-de-dados-comerciais-performance-de-vendas-1)
 ### [5. Mini-Projeto 3 - Análise de Dados de Recursos Humanos](#5-mini-projeto-3---análise-de-dados-de-recursos-humanos-1)
+### [6. Mini-Projeto 4 - Análise de Dados de Logística](#6-mini-projeto-4---análise-de-dados-de-logística-1)
 
 ## 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
 Neste laboratório foram utilizados dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo.
@@ -96,12 +97,16 @@ O Dashboard criado deve responder às seguintes perguntas de negócio:
 - Qual o total e percentual de funcionários do gênero masculino e feminino?
 - Qual a média salarial mensal?
 - Qual o total de funcionários por função?
-- Qual o percentual defuncionários disponíveis para fazer hora extra?
+- Qual o percentual de funcionários disponíveis para fazer hora extra?
 - Qual o nível de envolvimento dos funcionários no trabalho considerando 4 categorias: Ruim, Baixo, Médio e Alto?
 - Este item não deve estar no Dashboard, mas precisa ser calculado: Qual o total e o percentual de funcionários que devem receber promoção? Considerando a coluna “Anos Desde a última Promoção” com a seguinte regra: Se o funcionário tiver 5 anos ou mais desde a última promoção, deve ter a promoção considerada. Caso contrário, a promoção não deve ser considerada agora.
 
+### 5.1. Análise de Dados de Recursos Humanos
+![MP_3](https://github.com/Gui-lherme-Oliv/Business-Intelligence_PowerBI/assets/123426025/10a17924-8999-441d-a970-7a26560acfd1)
+
 #### [Voltar ao Sumário](#sumário)
+## 6. Mini-Projeto 4 - Análise de Dados de Logística
 
-
+#### [Voltar ao Sumário](#sumário)
 </div>
 
