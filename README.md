@@ -119,12 +119,25 @@ O Dashboard precisaria mostrar os seguintes KPIs de Logística:
 
 Durante o projeto foram trabalhados alguns outros recursos e funcionalidades do Power BI, como classificação de rating e filtro com medida DAX. 
 
-## 6.1. Dashboard - Análise de Dados de Logística
+### 6.1. Dashboard - Análise de Dados de Logística
 ![MP_4](https://github.com/Gui-lherme-Oliv/Business-Intelligence_PowerBI/assets/123426025/ca6ca8fb-244f-4e0c-a6f5-07431564b8cb)
 
 #### [Voltar ao Sumário](#sumário)
 ## 7. Mini-Projeto 5 - Análise de Dados Financeiros
+Neste Mini-Projeto foram exploradas mais algumas funcionalidades do Power BI, agora no contexto da área de finanças, utilizando dados fictícios.
 
+Estudo de caso: Sua empresa deseja ter uma visão das receitas e despesas e solicitou que você criasse um Dashboard que permita analisar os seguintes indicadores financeiros:
+- Total de Receitas
+- Total de Despesas
+- Margem de Lucro
+- Total de Receitas Por Componente
+- Total de Despesas Por Componente em relação à média de Despesas
+- Total  de  Receitas e  Despesas Por  Componente  e  Por  Ano, com  a  hierarquia Tipo/Componente.
 
+Além disso a empresa precisa identificar os segmentos onde Receitas e Despesas são maiores e menores a fim de traçar seu plano estratégico. Seu trabalho é converter os dados brutos em conhecimento para suportar a tomada de decisões, através da análise de dados.
+
+### 7.1. Dashboard - Análise de Dados Financeiros
+
+#### [Voltar ao Sumário](#sumário)
 </div>
 
