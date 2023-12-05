@@ -124,7 +124,7 @@ Durante o projeto foram trabalhados alguns outros recursos e funcionalidades do 
 
 #### [Voltar ao Sumário](#sumário)
 ## 7. Mini-Projeto 5 - Análise de Dados Financeiros
-Neste Mini-Projeto foram exploradas mais algumas funcionalidades do Power BI, agora no contexto da área de finanças, utilizando dados fictícios.
+Neste Mini-Projeto foram exploradas mais algumas funcionalidades do Power BI, agora no contexto da área de finanças. Foram utilizados dados fictícios, que continham problemas colocados porpositalmente e que foram então resolvidos.
 
 Estudo de caso: Sua empresa deseja ter uma visão das receitas e despesas e solicitou que você criasse um Dashboard que permita analisar os seguintes indicadores financeiros:
 - Total de Receitas
