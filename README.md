@@ -14,6 +14,7 @@ Estes projetos foram apresentados no curso **Microsoft Power BI Para Business In
 ### [5. Mini-Projeto 3 - Análise de Dados de Recursos Humanos](#5-mini-projeto-3---análise-de-dados-de-recursos-humanos-1)
 ### [6. Mini-Projeto 4 - Análise de Dados de Logística](#6-mini-projeto-4---análise-de-dados-de-logística-1)
 ### [7. Mini-Projeto 5 - Análise de Dados Financeiros](#7-mini-projeto-5---análise-de-dados-financeiros-1)
+### [8. Laboratório Prático 3 - Análise de Dados Contábeis](#8-laboratório-prático-3---análise-de-dados-contábeis-1)
 
 ## 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
 Neste laboratório foram utilizados dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo.
@@ -137,7 +138,11 @@ Estudo de caso: Sua empresa deseja ter uma visão das receitas e despesas e soli
 Além disso a empresa precisa identificar os segmentos onde Receitas e Despesas são maiores e menores a fim de traçar seu plano estratégico. Seu trabalho é converter os dados brutos em conhecimento para suportar a tomada de decisões, através da análise de dados.
 
 ### 7.1. Dashboard - Análise de Dados Financeiros
+![MP_5](https://github.com/Gui-lherme-Oliv/Business-Intelligence_PowerBI/assets/123426025/cf1d1e80-1cc6-4ffb-b083-c1e599aecc63)
 
 #### [Voltar ao Sumário](#sumário)
+## 8. Laboratório Prático 3 - Análise de Dados Contábeis
+
+### 8.1. Dashboard - Análise de Dados Contábeis
 </div>
 
