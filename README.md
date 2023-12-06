@@ -142,6 +142,7 @@ Além disso a empresa precisa identificar os segmentos onde Receitas e Despesas 
 
 #### [Voltar ao Sumário](#sumário)
 ## 8. Laboratório Prático 3 - Análise de Dados Contábeis
+Neste  laboratório foi construído um importante relatório contábil no Power BI, o Balanço Patrimonial. Utilizando dados fictícios, foram exploradas as funcionalidades do visual de Matriz, e estudadas em detalhes outras diversas funcionalidades do Power BI.
 
 ### 8.1. Dashboard - Análise de Dados Contábeis
 </div>
