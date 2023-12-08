@@ -20,7 +20,7 @@ Estes projetos foram apresentados no curso **Microsoft Power BI Para Business In
 ## 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
 Neste laboratório foram utilizados dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo.
 
-O Dashboard deve responder às seguintes perguntas de negócio:
+O Dashboard deve responder às seguintes perguntas de negócio e seguir as seguintes especificações:
 - Pergunta 1 - Qual o valor total vendido?
 - Pergunta 2 - Quantas vendas foram realizadas por categoria de produto?
 - Pergunta 3 - Quantas vendas foram realizadas por país considerando a prioridade de entrega?
@@ -36,7 +36,7 @@ O Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, po
 ## 2. Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI
 Neste laboratório foram explorados os conceitos de modelagem de dados, cardinalidade, recursos de limpeza de dados do Power BI e introdução ao DAX. Foram utilizados dados de vendas fictícios obtidos em 4 diferentes tabelas: Clientes, Pedidos, Produtos e Vendas.
 
-O Dashboard deve responder às seguintes perguntas de negócio:
+O Dashboard deve responder às seguintes perguntas de negócio e seguir as seguintes especificações:
 - Pergunta 1 - Qual foi o total de valor venda considerando cada modo de envio dos pedidos? Use um gráfico de cascata.
 - Pergunta 2 - Quais mercados tiveram o maior custo médio de envio dos produtos vendidos? Use um gráfico treemap.
 - Pergunta 3 - A empresa tem como objetivo (meta) manter uma média de 350 para o valor de venda todos os meses. Mostre um indicador (KPI – Key Performance Indicator) com o valor médio de venda. A empresa ficou abaixo ou acima da meta no mês de Abril/2014?
@@ -94,7 +94,7 @@ Neste Mini-Projeto foi trabalhado um problema da área comercial, especificament
 ## 5. Mini-Projeto 3 - Análise de Dados de Recursos Humanos
 Este Mini-Projeto trouxe uma breve introdução à análise de dados de RH (Recursos Humanos) com o Power BI, onde foram utilizados dados fictícios. Durante o projeto foram trabalhados alguns outros recursos e funcionalidades do Power BI, como tabela de medidas e coluna condicional. 
 
-O Dashboard criado deve responder às seguintes perguntas de negócio:
+O Dashboard criado deve responder às seguintes perguntas de negócio e seguir as seguintes especificações:
 - Qual o total de funcionários atualmente na empresa?
 - Qual o tempo médio de experiência dos funcionários (em anos)?
 - Qual o total e percentual de funcionários do gênero masculino e feminino?
@@ -150,6 +150,16 @@ Neste  laboratório foi construído um importante relatório contábil no Power 
 
 #### [Voltar ao Sumário](#sumário)
 ## 9. Mini-Projeto 6 - Análise de Dados do Mercado de Ações
+Neste Mini-Projeto foi construído um Dashboard Analítico do Mercado de Ações. Duas funcionalidades do Power BI foram exploradas: a Narrativa Inteligente e a Time Intelligence (manipulação de data). Foram utilizados dados reais, disponíveis publicamente, extraídos do portal da NASDAQ ([link](https://www.nasdaq.com/market-activity/stocks)). Os dados da NASDAQ incluem várias colunas, cada uma fornecendo informações específicas sobre o preço e o volume de negociação das ações negociadas no mercado. Foram escolhidos dados de 5 empresas: IBM, Microsoft, Oracle, Tesla e Walmart.
+
+O Dashboard deverá responder às seguintes perguntas de negócio e seguir as seguintes especificações:
+- Qual o total de volume negociado de ações ao longo do tempo para as 5 empresas que estão sendo analisadas? Permita que essa análise seja feita para uma única empresa ou combinação de empresas.
+- Qual o valor médio de abertura (Open), mais alto (High), mais baixo (Low) e de fechamento (Close) das ações de todas as empresas para todos os meses do período de  dados  analisado  (1 ano em nosso exemplo)? Mostre no formato de tabela e permita que essa análise seja feita para uma única empresa ou combinação de empresas.
+- Qual a variação da média do valor de fechamento (close) das ações de todas as empresas ao longo do tempo, mês a mês? Permita que essa análise seja feita para uma única empresa ou combinação de empresas.
+- Use a Narrativa Inteligente para explicar as principais características e tendências nos dados.
+- O Dashboard deve ser formatado.
+
+### 9.1. Dashboard - Análise de Dados do Mercado de Ações
 
 #### [Voltar ao Sumário](#sumário)
 </div>
