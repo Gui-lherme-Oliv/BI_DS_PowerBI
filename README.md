@@ -14,7 +14,8 @@ Estes projetos foram apresentados no curso **Microsoft Power BI Para Business In
 ### [5. Mini-Projeto 3 - Análise de Dados de Recursos Humanos](#5-mini-projeto-3---análise-de-dados-de-recursos-humanos-1)
 ### [6. Mini-Projeto 4 - Análise de Dados de Logística](#6-mini-projeto-4---análise-de-dados-de-logística-1)
 ### [7. Mini-Projeto 5 - Análise de Dados Financeiros](#7-mini-projeto-5---análise-de-dados-financeiros-1)
-### [8. Laboratório Prático 3 - Análise de Dados Contábeis](#8-laboratório-prático-3---análise-de-dados-contábeis-1)
+### [8. Laboratório Prático 3 - Análise de Dados Contábeis: Balanço patrimonial](#8-laboratório-prático-3---análise-de-dados-contábeis-balanço-patrimonial-1)
+### [9. Mini-Projeto 6 - Análise de Dados do Mercado de Ações](#9-mini-projeto-6---análise-de-dados-do-mercado-de-ações-1)
 
 ## 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
 Neste laboratório foram utilizados dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo.
@@ -141,9 +142,15 @@ Além disso a empresa precisa identificar os segmentos onde Receitas e Despesas 
 ![MP_5](https://github.com/Gui-lherme-Oliv/Business-Intelligence_PowerBI/assets/123426025/cf1d1e80-1cc6-4ffb-b083-c1e599aecc63)
 
 #### [Voltar ao Sumário](#sumário)
-## 8. Laboratório Prático 3 - Análise de Dados Contábeis
+## 8. Laboratório Prático 3 - Análise de Dados Contábeis: Balanço Patrimonial
 Neste  laboratório foi construído um importante relatório contábil no Power BI, o Balanço Patrimonial. Utilizando dados fictícios, foram exploradas as funcionalidades do visual de Matriz, e estudadas em detalhes outras diversas funcionalidades do Power BI.
 
-### 8.1. Dashboard - Análise de Dados Contábeis
+### 8.1. Dashboard - Balanço Patrimonial
+![Lab_3](https://github.com/Gui-lherme-Oliv/Business-Intelligence_PowerBI/assets/123426025/a3eb827f-6e24-4f0f-8108-9940245d2cf2)
+
+#### [Voltar ao Sumário](#sumário)
+## 9. Mini-Projeto 6 - Análise de Dados do Mercado de Ações
+
+#### [Voltar ao Sumário](#sumário)
 </div>
 
