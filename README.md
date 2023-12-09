@@ -7,15 +7,18 @@ Estes projetos foram apresentados no curso **Microsoft Power BI Para Business In
 
 ## Sumário
 
-### [1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais](#1-laboratório-prático-1---dashboard-analítico-de-vendas-globais-1)
-### [2. Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI](#2-laboratório-prático-2---dashboard-de-vendas-custo-margem-de-lucro-e-kpi-1)
-### [3. Mini-Projeto 1 - Análise de Campanhas de Marketing](#3-mini-projeto-1---análise-de-campanhas-de-marketing-1)
-### [4. Mini-Projeto 2 - Análise de Dados Comerciais: Performance de Vendas](#4-mini-projeto-2---análise-de-dados-comerciais-performance-de-vendas-1)
-### [5. Mini-Projeto 3 - Análise de Dados de Recursos Humanos](#5-mini-projeto-3---análise-de-dados-de-recursos-humanos-1)
-### [6. Mini-Projeto 4 - Análise de Dados de Logística](#6-mini-projeto-4---análise-de-dados-de-logística-1)
-### [7. Mini-Projeto 5 - Análise de Dados Financeiros](#7-mini-projeto-5---análise-de-dados-financeiros-1)
-### [8. Laboratório Prático 3 - Análise de Dados Contábeis: Balanço patrimonial](#8-laboratório-prático-3---análise-de-dados-contábeis-balanço-patrimonial-1)
-### [9. Mini-Projeto 6 - Análise de Dados do Mercado de Ações](#9-mini-projeto-6---análise-de-dados-do-mercado-de-ações-1)
+### Parte 1: Business Intelligence
+#### [1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais](#1-laboratório-prático-1---dashboard-analítico-de-vendas-globais-1)
+#### [2. Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI](#2-laboratório-prático-2---dashboard-de-vendas-custo-margem-de-lucro-e-kpi-1)
+#### [3. Mini-Projeto 1 - Análise de Campanhas de Marketing](#3-mini-projeto-1---análise-de-campanhas-de-marketing-1)
+#### [4. Mini-Projeto 2 - Análise de Dados Comerciais: Performance de Vendas](#4-mini-projeto-2---análise-de-dados-comerciais-performance-de-vendas-1)
+#### [5. Mini-Projeto 3 - Análise de Dados de Recursos Humanos](#5-mini-projeto-3---análise-de-dados-de-recursos-humanos-1)
+#### [6. Mini-Projeto 4 - Análise de Dados de Logística](#6-mini-projeto-4---análise-de-dados-de-logística-1)
+#### [7. Mini-Projeto 5 - Análise de Dados Financeiros](#7-mini-projeto-5---análise-de-dados-financeiros-1)
+#### [8. Laboratório Prático 3 - Análise de Dados Contábeis: Balanço patrimonial](#8-laboratório-prático-3---análise-de-dados-contábeis-balanço-patrimonial-1)
+#### [9. Mini-Projeto 6 - Análise de Dados do Mercado de Ações](#9-mini-projeto-6---análise-de-dados-do-mercado-de-ações-1)
+
+### Parte 2: Data Science
 
 ## 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
 Neste laboratório foram utilizados dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo.
