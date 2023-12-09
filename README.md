@@ -160,6 +160,7 @@ O Dashboard deverá responder às seguintes perguntas de negócio e seguir as se
 - O Dashboard deve ser formatado.
 
 ### 9.1. Dashboard - Análise de Dados do Mercado de Ações
+![MP_6](https://github.com/Gui-lherme-Oliv/BI_DS_PowerBI/assets/123426025/11a4c8e3-15d1-4d39-be11-acf347ca6244)
 
 #### [Voltar ao Sumário](#sumário)
 </div>
