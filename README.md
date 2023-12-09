@@ -19,6 +19,7 @@ Estes projetos foram apresentados no curso **Microsoft Power BI Para Business In
 #### [9. Mini-Projeto 6 - Análise de Dados do Mercado de Ações](#9-mini-projeto-6---análise-de-dados-do-mercado-de-ações-1)
 
 ### Parte 2: Data Science
+#### [10. Laboratório Prático 4 - Limpeza e Manipulação de Dados de Cadastro de Clientes](#10-laboratório-prático-4---limpeza-e-manipulação-de-dados-de-cadastro-de-clientes-1)
 
 ## 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
 Neste laboratório foram utilizados dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo.
@@ -164,6 +165,10 @@ O Dashboard deverá responder às seguintes perguntas de negócio e seguir as se
 
 ### 9.1. Dashboard - Análise de Dados do Mercado de Ações
 ![MP_6](https://github.com/Gui-lherme-Oliv/BI_DS_PowerBI/assets/123426025/a953d7c1-f0b9-4bde-afac-3d18eb525374)
+
+#### [Voltar ao Sumário](#sumário)
+## 10. Laboratório Prático 4 - Limpeza e Manipulação de Dados de Cadastro de Clientes
+Este laboratório prático foi focado na limpeza e manipulação de dados com Power BI.
 
 #### [Voltar ao Sumário](#sumário)
 </div>
