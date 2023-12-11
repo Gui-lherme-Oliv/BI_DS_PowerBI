@@ -5,7 +5,7 @@
 
 Estes projetos foram apresentados no curso **Microsoft Power BI Para Business Intelligence e Data Science** oferecido pelo portal de capacitação profissional Data Science Academy (DSA) ([link](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science)). Neste curso foi abordado não apenas a como utilizar o Microsoft Power BI, mas também como aplicar técnicas de Data Science para gerar modelos preditivos e extrair insights para a tomada de decisões, integrando o Power BI com Linguagem R e Python.
 
-Os projetos são demonstrados em laboratórios práticos ou em mini-projetos, onde em cada um deles foram exploradas e trabalhadas diversas funcionalidades do Power BI, assim como foram estudadas e executadas soluções para diferentes problemas que podem vir a surgir em uma análise de dados. Todos os laboratórios e mini-projetos foram refeitos do zero por mim, construídos de acordo com as instruções do professor Daniel Mendes, instrutor responsável por este curso. Todos os conjuntos de dados disponibilizados pela DSA (.csv ou .xlsx) e relatórios/dashboards feitos por mim (.pbix) estão presentes neste repositório.
+Os projetos são demonstrados em laboratórios práticos ou em mini-projetos, onde em cada um deles foram exploradas e trabalhadas diversas funcionalidades do Power BI, assim como foram estudadas e executadas soluções para diferentes problemas que podem vir a surgir em uma análise exploratória de dados. Todos os laboratórios e mini-projetos foram refeitos do zero por mim, construídos de acordo com as instruções do professor Daniel Mendes, instrutor responsável por este curso. Todos os conjuntos de dados disponibilizados pela DSA (.csv ou .xlsx) e relatórios/dashboards feitos por mim (.pbix) estão presentes neste repositório.
 
 ## Sumário
 
@@ -175,7 +175,13 @@ Este laboratório prático foi focado na limpeza e manipulação de dados com Po
 - Identificação e tratamento de valores ausentes.
 - Identificação e tratamento de valores outliers.
 
-### 10.1. Dashboard - Cadastro de Clientes
+### 10.1. Visualizando os outliers
+![Lab_4](https://github.com/Gui-lherme-Oliv/BI_DS_PowerBI/assets/123426025/25104ff5-b1f2-4dcf-b413-fa6853186b27)
+
+#### Soluções:
+- Registros duplicados foram removidos.
+- Valores ausentes foram preenchidos com a mediana da variável.
+- Valores outliers foram substituídos pela mediana da variável.
 
 #### [Voltar ao Sumário](#sumário)
 </div>
