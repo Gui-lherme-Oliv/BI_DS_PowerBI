@@ -170,10 +170,12 @@ O Dashboard deverá responder às seguintes perguntas de negócio e seguir as se
 
 #### [Voltar ao Sumário](#sumário)
 ## 10. Laboratório Prático 4 - Limpeza e Manipulação de Dados de Cadastro de Clientes
-Este laboratório prático foi focado na limpeza e manipulação de dados com Power BI, utilizando dados fictícios. Atividades realizadas durante no laboratório:
+Este laboratório prático foi focado na limpeza e manipulação de dados com Power BI, utilizando dados fictícios. Atividades realizadas durante o laboratório:
 - Identificação e tratamento de registros duplicados.
 - Identificação e tratamento de valores ausentes.
 - Identificação e tratamento de valores outliers.
+
+### 10.1. Dashboard - Cadastro de Clientes
 
 #### [Voltar ao Sumário](#sumário)
 </div>
