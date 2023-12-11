@@ -22,6 +22,7 @@ Os projetos são demonstrados em laboratórios práticos ou em mini-projetos, on
 
 ### Parte 2: Data Science
 #### [10. Laboratório Prático 4 - Limpeza e Manipulação de Dados de Cadastro de Clientes](#10-laboratório-prático-4---limpeza-e-manipulação-de-dados-de-cadastro-de-clientes-1)
+#### [11. Laboratório Prático 5 - Engenharia de Atributos com Linguagem M](#11-laboratório-prático-5---engenharia-de-atributos-com-linguagem-m-1)
 
 ## 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
 Neste laboratório foram utilizados dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo.
@@ -184,5 +185,8 @@ Este laboratório prático foi focado na limpeza e manipulação de dados com Po
 - Valores outliers foram substituídos pela mediana da variável.
 
 #### [Voltar ao Sumário](#sumário)
+## 11. Laboratório Prático 5 - Engenharia de Atributos com Linguagem M
+Neste Laboratório foi demonstrado como a Linguagem M pode ser usada no Power BI para realizar uma das mais importantes tarefas em Ciência de Dados: a Engenharia de Atributos. Utilizando dados fictícios, foram aplicadas diversas tarefas e etapas como criação de novas variáveis, remoção de variáveis desnecessárias, transformações e correções.
+
 </div>
 
