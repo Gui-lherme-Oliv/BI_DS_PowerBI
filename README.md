@@ -188,5 +188,42 @@ Este laboratório prático foi focado na limpeza e manipulação de dados com Po
 ## 11. Laboratório Prático 5 - Engenharia de Atributos com Linguagem M
 Neste Laboratório foi demonstrado como a Linguagem M pode ser usada no Power BI para realizar uma das mais importantes tarefas em Ciência de Dados: a Engenharia de Atributos. Utilizando dados fictícios, foram aplicadas diversas tarefas e etapas como criação de novas variáveis, remoção de variáveis desnecessárias, transformações e correções.
 
+### 11.1. Script em Linguagem M
+```
+let
+    Fonte = Csv.Document(File.Contents("C:\Users\Lenovo\Documents\Cursos\Data Science Academy\Microsoft Power BI Para Business Intelligence e Data Science\Laboratorios\Lab_5\Clientes.csv"),[Delimiter=",", Columns=10, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+    #"Cabeçalhos Promovidos" = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),
+    #"Tipo Alterado" = Table.TransformColumnTypes(#"Cabeçalhos Promovidos",{{"ID_Cliente", type text}, {"Idade", type text}, {"Peso", Int64.Type}, {"Altura", Int64.Type}, {"Estado Civil", type text}, {"Estado", type text}, {"Limite de Credito", Int64.Type}, {"Valor Desconto", Int64.Type}, {"Valor Compra", Int64.Type}, {"Tipo de Cliente", type text}}),
+    
+    //Substituindo valor
+    #"Valor Substituído" = Table.ReplaceValue(#"Tipo Alterado","?","45",Replacer.ReplaceText,{"Idade"}),
+
+    //Ajustando o tipo da variável
+    #"Tipo Alterado2" = Table.TransformColumnTypes(#"Valor Substituído",{{"Idade", Int64.Type}}),
+
+    //Removendo coluna
+    #"Colunas Removidas" = Table.RemoveColumns(#"Tipo Alterado2",{"Estado Civil"}),
+
+    //Adicionando coluna
+    #"Personalização Adicionada" = Table.AddColumn(#"Colunas Removidas", "Valor Final", each [Valor Compra] - [Valor Desconto]),
+
+    //Dividindo coluna
+    #"Dividir Coluna pelas Posições" = Table.SplitColumn(#"Personalização Adicionada", "ID_Cliente", Splitter.SplitTextByPositions({0, 4}), {"ID_Cliente.1", "ID_Cliente.2"}),
+    #"Tipo Alterado1" = Table.TransformColumnTypes(#"Dividir Coluna pelas Posições",{{"ID_Cliente.1", type text}, {"ID_Cliente.2", Int64.Type}}),
+
+    //Renomeando coluna
+    #"Colunas Renomeadas" = Table.RenameColumns(#"Tipo Alterado1",{{"ID_Cliente.1", "Codigo"}, {"ID_Cliente.2", "ID"}}),
+
+    //Coluna condicional
+    #"Coluna Condicional Adicionada" = Table.AddColumn(#"Colunas Renomeadas", "% Desconto Especial", each if [Tipo de Cliente] = "Bronze" then 5 else if [Tipo de Cliente] = "Prata" then 10 else if [Tipo de Cliente] = "Ouro" then 15 else if [Tipo de Cliente] = "Diamante" then 20 else 0),
+    
+    //Ajustando a escala dos dados com transformação logarítmica
+    #"Logaritmo de Base 10 Calculado" = Table.TransformColumns(#"Coluna Condicional Adicionada",{{"Limite de Credito", Number.Log10, type number}})
+in
+    #"Logaritmo de Base 10 Calculado"
+```
+#### [Voltar ao Sumário](#sumário)
+## 12. 
+
 </div>
 
