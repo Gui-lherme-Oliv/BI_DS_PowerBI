@@ -24,6 +24,7 @@ Os projetos são demonstrados em laboratórios práticos ou em mini-projetos, on
 #### [10. Laboratório Prático 4 - Limpeza e Manipulação de Dados de Cadastro de Clientes](#10-laboratório-prático-4---limpeza-e-manipulação-de-dados-de-cadastro-de-clientes-1)
 #### [11. Laboratório Prático 5 - Engenharia de Atributos com Linguagem M](#11-laboratório-prático-5---engenharia-de-atributos-com-linguagem-m-1)
 #### [12. Laboratório Prático 6 - Integrando Banco de Dados com Power BI para Extração e Análise de Dados](#12-laboratório-prático-6---integrando-banco-de-dados-com-power-bi-para-extração-e-análise-de-dados-1)
+#### [13.](#13-1)
 
 ## 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
 Neste laboratório foram utilizados dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo.
@@ -225,9 +226,13 @@ in
 ```
 #### [Voltar ao Sumário](#sumário)
 ## 12. Laboratório Prático 6 - Integrando Banco de Dados com Power BI para Extração e Análise de Dados 
-Neste laboratório foi demonstrado como conectar o Power BI a bancos de dados para extrair dados e criar análises, através de uma conexão ODBC. Foram utilizados dados fictícios.
+Neste laboratório foi demonstrado como conectar o Power BI a bancos de dados para extrair dados e criar análises, através de uma conexão ODBC (Open Database Connectivity). Utilizados dados fictícios e o banco de dados SQLite.
 
+### 12.1. Exibição do Modelo
+![Lab_6](https://github.com/Gui-lherme-Oliv/BI_DS_PowerBI/assets/123426025/ce237b76-c519-473e-ba7d-2c54515253ab)
 
 #### [Voltar ao Sumário](#sumário)
+## 13.
+
 </div>
 
