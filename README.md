@@ -243,8 +243,11 @@ Para escrever e executar o Python no navegador, foi utilizado o Google Colaborat
 5. Publicação do Relatório no Power BI Online
 6. Edição do Relatório no Power BI Desktop
 
-### 13.1. Dashboard - Segmentação de clientes
+### 13.1. Dashboard - Segmentação de Clientes
+![Lab_7](https://github.com/Gui-lherme-Oliv/BI_DS_PowerBI/assets/123426025/9d7953bc-918f-4009-a7a9-2d0665861c0b)
 
 #### [Voltar ao Sumário](#sumário)
+
+## 14.
 </div>
 
