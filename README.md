@@ -25,6 +25,7 @@ Os projetos são demonstrados em laboratórios práticos ou em mini-projetos, on
 #### [11. Laboratório Prático 5 - Engenharia de Atributos com Linguagem M](#11-laboratório-prático-5---engenharia-de-atributos-com-linguagem-m-1)
 #### [12. Laboratório Prático 6 - Integrando Banco de Dados com Power BI para Extração e Análise de Dados](#12-laboratório-prático-6---integrando-banco-de-dados-com-power-bi-para-extração-e-análise-de-dados-1)
 #### [13. Laboratório Prático 7 - Machine Learning com Linguagem Python e Power BI dentro do Jupyter Notebook](#13-laboratório-prático-7---machine-learning-com-linguagem-python-e-power-bi-dentro-do-jupyter-notebook-1)
+#### [14. Laboratório Prático 8 - Detecção de Anomalias em Transações Financeiras com Linguagem R e Power BI](#14-laboratório-prático-8---detecção-de-anomalias-em-transações-financeiras-com-linguagem-r-e-power-bi-1)
 
 ## 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
 Neste laboratório foram utilizados dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo.
@@ -249,6 +250,9 @@ Para escrever e executar o Python no navegador, foi utilizado o Google Colaborat
 
 #### [Voltar ao Sumário](#sumário)
 
-## 14.
+## 14. Laboratório Prático 8 - Detecção de Anomalias em Transações Financeiras com Linguagem R e Power BI
+Este laboratório prático apresentou o seguinte estudo de caso com dados fictícios: Imagine que uma empresa da área financeira tenha dados históricos de clientes com duas transações financeiras (aqui chamadas de “transacao1” e “transacao2”). Os gestores acreditam que algumas dessas transações possam ser fraudulentas e gostariam de identificar as eventuais anomalias. Os gestores não fazem ideia do que seria uma anomalia e pediram sua ajuda para encontrar uma solução. De fato, eles não sabem se anomalias realmente ocorreram. Seu trabalho é usar Machine Learning para agrupar os dados de transações financeiras dos clientes e então detectar e definir as anomalias (se existirem). O resultado deve ser entregue no formato visual através de gráficos no Power BI.
+
+#### [Voltar ao Sumário](#sumário)
 </div>
 
