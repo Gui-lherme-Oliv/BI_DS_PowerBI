@@ -236,7 +236,7 @@ Neste laboratório foi demonstrado como conectar o Power BI a bancos de dados pa
 ## 13. Laboratório Prático 7 - Machine Learning com Linguagem Python e Power BI dentro do Jupyter Notebook
 Este laboratório prático apresentou o seguinte estudo de caso com dados fictícios: Imagine que uma empresa tenha dados históricos de clientes que fizeram compras de produtos ou serviços. Os dados incluem, para cada cliente: idade, renda anual e uma pontuação de gasto (poder de compra do cliente). A empresa gostaria de segmentar esses clientes em 3 grupos de acordo com similaridades a fim de personalizar as campanhas de Marketing. O gestor da área de Marketing espera receber um relatório com os 3 segmentos e para cada segmento a média de idade, renda anual e pontuação de gastos dos clientes. Seu trabalho é fazer isso acontecer utilizando Machine Learning.
 
-Para escrever e executar o Python no navegador, foi utilizado o Google Colaboratory e foram seguidas as seguintes etapas:
+Para escrever e executar o Python no navegador, foi utilizado o Google Colaboratory e foram empregadas as seguintes etapas:
 1. Carregamento dos dados
 2. Análise exploratória
 3. Pré-processamento dos dados
@@ -252,6 +252,11 @@ Para escrever e executar o Python no navegador, foi utilizado o Google Colaborat
 
 ## 14. Laboratório Prático 8 - Detecção de Anomalias em Transações Financeiras com Linguagem R e Power BI
 Este laboratório prático apresentou o seguinte estudo de caso com dados fictícios: Imagine que uma empresa da área financeira tenha dados históricos de clientes com duas transações financeiras (aqui chamadas de “transacao1” e “transacao2”). Os gestores acreditam que algumas dessas transações possam ser fraudulentas e gostariam de identificar as eventuais anomalias. Os gestores não fazem ideia do que seria uma anomalia e pediram sua ajuda para encontrar uma solução. De fato, eles não sabem se anomalias realmente ocorreram. Seu trabalho é usar Machine Learning para agrupar os dados de transações financeiras dos clientes e então detectar e definir as anomalias (se existirem). O resultado deve ser entregue no formato visual através de gráficos no Power BI.
+
+Para este laboratório foram executadas as seguintes etapas:
+
+
+Obs.: Algumas etapas intermediárias, como a análise exploratória dos dados, limpezas e checagens não foram realizadas pois os dados fictícios já foram previamente corrigidos e formatados.
 
 #### [Voltar ao Sumário](#sumário)
 </div>
