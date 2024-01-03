@@ -265,6 +265,13 @@ Para este laboratório foi utilizado o RStudio e foram executadas as seguintes e
 
 Obs.: Algumas etapas intermediárias de preparação dos dados, como a análises exploratórias, limpezas e checagens, não foram realizadas pois os dados fictícios já foram previamente corrigidos e formatados.
 
+### 14.1. Boxplot de Dados Anômalos e Dados Normais
+![boxplot-Lab_8](https://github.com/Gui-lherme-Oliv/BI_DS_PowerBI/assets/123426025/2d966cfe-d4fc-418a-8310-90b4e6cec500)
+
+### 14.2. Dashboard - Detecção de Anomalias em Transações Financeiras
+![Lab_8](https://github.com/Gui-lherme-Oliv/BI_DS_PowerBI/assets/123426025/d9f73022-8bd9-4c2a-a5c9-0736b821439a)
+
 #### [Voltar ao Sumário](#sumário)
+## 15.
 </div>
 
