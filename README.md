@@ -253,10 +253,17 @@ Para escrever e executar o Python no navegador, foi utilizado o Google Colaborat
 ## 14. Laboratório Prático 8 - Detecção de Anomalias em Transações Financeiras com Linguagem R e Power BI
 Este laboratório prático apresentou o seguinte estudo de caso com dados fictícios: Imagine que uma empresa da área financeira tenha dados históricos de clientes com duas transações financeiras (aqui chamadas de “transacao1” e “transacao2”). Os gestores acreditam que algumas dessas transações possam ser fraudulentas e gostariam de identificar as eventuais anomalias. Os gestores não fazem ideia do que seria uma anomalia e pediram sua ajuda para encontrar uma solução. De fato, eles não sabem se anomalias realmente ocorreram. Seu trabalho é usar Machine Learning para agrupar os dados de transações financeiras dos clientes e então detectar e definir as anomalias (se existirem). O resultado deve ser entregue no formato visual através de gráficos no Power BI.
 
-Para este laboratório foram executadas as seguintes etapas:
+Para este laboratório foi utilizado o RStudio e foram executadas as seguintes etapas:
+1. Instalação e carregamento dos pacotes para detecção de anomalias, manipulação e visualização de dados
+2. Carregamento dos dados
+3. Criação e treinamento do modelo de Machine Learning
+4. Previsões com o modelo usando os dados históricos
+5. Definição das anomalias de acordo com o *anomaly score*
+6. Aplicação do modelo de detecção de anomalias a novos dados
+7. Análise das anomalias com boxplot em linguagem R
+8. Análise das anomalias com boxplot no Power BI
 
-
-Obs.: Algumas etapas intermediárias, como a análise exploratória dos dados, limpezas e checagens não foram realizadas pois os dados fictícios já foram previamente corrigidos e formatados.
+Obs.: Algumas etapas intermediárias de preparação dos dados, como a análises exploratórias, limpezas e checagens, não foram realizadas pois os dados fictícios já foram previamente corrigidos e formatados.
 
 #### [Voltar ao Sumário](#sumário)
 </div>
