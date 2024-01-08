@@ -26,6 +26,7 @@ Os projetos são demonstrados em laboratórios práticos ou em mini-projetos, on
 #### [12. Laboratório Prático 6 - Integrando Banco de Dados com Power BI para Extração e Análise de Dados](#12-laboratório-prático-6---integrando-banco-de-dados-com-power-bi-para-extração-e-análise-de-dados-1)
 #### [13. Laboratório Prático 7 - Machine Learning com Linguagem Python e Power BI dentro do Jupyter Notebook](#13-laboratório-prático-7---machine-learning-com-linguagem-python-e-power-bi-dentro-do-jupyter-notebook-1)
 #### [14. Laboratório Prático 8 - Detecção de Anomalias em Transações Financeiras com Linguagem R e Power BI](#14-laboratório-prático-8---detecção-de-anomalias-em-transações-financeiras-com-linguagem-r-e-power-bi-1)
+#### [15. Laboratório Prático 9 - Engenharia de Producão com Power BI e IA: Prevendo a Produção Industrial ao Longo do Tempo](#15-laboratório-prático-9---engenharia-de-producão-com-power-bi-e-ia-prevendo-a-produção-industrial-ao-longo-do-tempo-1)
 
 ## 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
 Neste laboratório foram utilizados dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo.
@@ -272,6 +273,11 @@ Obs.: Algumas etapas intermediárias de preparação dos dados, como a análises
 ![Lab_8](https://github.com/Gui-lherme-Oliv/BI_DS_PowerBI/assets/123426025/d9f73022-8bd9-4c2a-a5c9-0736b821439a)
 
 #### [Voltar ao Sumário](#sumário)
-## 15.
+## 15. Laboratório Prático 9 - Engenharia de Producão com Power BI e IA: Prevendo a Produção Industrial ao Longo do Tempo
+Neste laboratório o Power BI foi usado para manipular e compreender os dados, explorando alguns conceitos de análise de séries temporais utilizando dados fictícios. Por fim, foram apresentados recursos de IA do Power BI para prever a média de unidades produzidas ao longo do tempo e detecção de anomalias. O Dashboard criado ao final do laboratório serve como ponto de partida para o dia a dia de Engenheiros de Produção.
+
+### 15.1 
+
+#### [Voltar ao Sumário](#sumário)
 </div>
 
