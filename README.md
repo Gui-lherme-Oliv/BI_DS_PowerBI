@@ -188,7 +188,7 @@ Este laboratório prático foi focado na limpeza e manipulação de dados com Po
 - Valores ausentes foram preenchidos com a mediana da variável.
 - Valores outliers foram substituídos pela mediana da variável.
 
-#### [Voltar ao Sumário](#sumário)
+#### [Voltar ao Sumário](#parte-2-data-science)
 ## 11. Laboratório Prático 5 - Engenharia de Atributos com Linguagem M
 Neste Laboratório foi demonstrado como a Linguagem M pode ser usada no Power BI para realizar uma das mais importantes tarefas em Ciência de Dados: a Engenharia de Atributos. Utilizando dados fictícios, foram aplicadas diversas tarefas e etapas como criação de novas variáveis, remoção de variáveis desnecessárias, transformações e correções.
 
@@ -226,14 +226,14 @@ let
 in
     #"Logaritmo de Base 10 Calculado"
 ```
-#### [Voltar ao Sumário](#sumário)
+#### [Voltar ao Sumário](#parte-2-data-science)
 ## 12. Laboratório Prático 6 - Integrando Banco de Dados com Power BI para Extração e Análise de Dados 
 Neste laboratório foi demonstrado como conectar o Power BI a bancos de dados para extrair dados e criar análises, através de uma conexão ODBC (Open Database Connectivity). Utilizados dados fictícios e o banco de dados SQLite.
 
 ### 12.1. Exibição do Modelo
 ![Lab_6](https://github.com/Gui-lherme-Oliv/BI_DS_PowerBI/assets/123426025/ce237b76-c519-473e-ba7d-2c54515253ab)
 
-#### [Voltar ao Sumário](#sumário)
+#### [Voltar ao Sumário](#parte-2-data-science)
 ## 13. Laboratório Prático 7 - Machine Learning com Linguagem Python e Power BI dentro do Jupyter Notebook
 Este laboratório prático apresentou o seguinte estudo de caso com dados fictícios: Imagine que uma empresa tenha dados históricos de clientes que fizeram compras de produtos ou serviços. Os dados incluem, para cada cliente: idade, renda anual e uma pontuação de gasto (poder de compra do cliente). A empresa gostaria de segmentar esses clientes em 3 grupos de acordo com similaridades a fim de personalizar as campanhas de Marketing. O gestor da área de Marketing espera receber um relatório com os 3 segmentos e para cada segmento a média de idade, renda anual e pontuação de gastos dos clientes. Seu trabalho é fazer isso acontecer utilizando Machine Learning.
 
@@ -249,8 +249,7 @@ Para escrever e executar o Python no navegador, foi utilizado o Google Colaborat
 ### 13.1. Dashboard - Segmentação de Clientes
 ![Lab_7](https://github.com/Gui-lherme-Oliv/BI_DS_PowerBI/assets/123426025/9d7953bc-918f-4009-a7a9-2d0665861c0b)
 
-#### [Voltar ao Sumário](#sumário)
-
+#### [Voltar ao Sumário](#parte-2-data-science)
 ## 14. Laboratório Prático 8 - Detecção de Anomalias em Transações Financeiras com Linguagem R e Power BI
 Este laboratório prático apresentou o seguinte estudo de caso com dados fictícios: Imagine que uma empresa da área financeira tenha dados históricos de clientes com duas transações financeiras (aqui chamadas de “transacao1” e “transacao2”). Os gestores acreditam que algumas dessas transações possam ser fraudulentas e gostariam de identificar as eventuais anomalias. Os gestores não fazem ideia do que seria uma anomalia e pediram sua ajuda para encontrar uma solução. De fato, eles não sabem se anomalias realmente ocorreram. Seu trabalho é usar Machine Learning para agrupar os dados de transações financeiras dos clientes e então detectar e definir as anomalias (se existirem). O resultado deve ser entregue no formato visual através de gráficos no Power BI.
 
@@ -272,13 +271,13 @@ Obs.: Algumas etapas intermediárias de preparação dos dados, como a análises
 ### 14.2. Dashboard - Detecção de Anomalias em Transações Financeiras
 ![Lab_8](https://github.com/Gui-lherme-Oliv/BI_DS_PowerBI/assets/123426025/d9f73022-8bd9-4c2a-a5c9-0736b821439a)
 
-#### [Voltar ao Sumário](#sumário)
+#### [Voltar ao Sumário](#parte-2-data-science)
 ## 15. Laboratório Prático 9 - Engenharia de Producão com Power BI e IA: Prevendo a Produção Industrial ao Longo do Tempo
 Neste laboratório o Power BI foi usado para manipular e compreender os dados, explorando alguns conceitos de análise de séries temporais utilizando dados fictícios. Por fim, foram apresentados recursos de IA do Power BI para prever a média de unidades produzidas ao longo do tempo e detecção de anomalias. O Dashboard criado ao final do laboratório serve como ponto de partida para o dia a dia de Engenheiros de Produção.
 
 ### 15.1 Dashboard - Produção Industrial ao Longo do Tempo
 ![Lab_9](https://github.com/Gui-lherme-Oliv/BI_DS_PowerBI/assets/123426025/bd808c9a-f0c5-4f92-800d-7c32913a3b09)
 
-#### [Voltar ao Sumário](#sumário)
+#### [Voltar ao Sumário](#parte-2-data-science)
 </div>
 
