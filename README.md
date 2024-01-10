@@ -276,7 +276,9 @@ Obs.: Algumas etapas intermediárias de preparação dos dados, como a análises
 ## 15. Laboratório Prático 9 - Engenharia de Producão com Power BI e IA: Prevendo a Produção Industrial ao Longo do Tempo
 Neste laboratório o Power BI foi usado para manipular e compreender os dados, explorando alguns conceitos de análise de séries temporais utilizando dados fictícios. Por fim, foram apresentados recursos de IA do Power BI para prever a média de unidades produzidas ao longo do tempo e detecção de anomalias. O Dashboard criado ao final do laboratório serve como ponto de partida para o dia a dia de Engenheiros de Produção.
 
-### 15.1 
+Foram exploradas técnicas e conceitos como hierarquia de datas, cálculo de média e média móvel, segmentação de série temporal, previsões e horizonte de previsão em séries temporais, e detecção de anomalias.
+
+### 15.1 Dashboard - 
 
 #### [Voltar ao Sumário](#sumário)
 </div>
